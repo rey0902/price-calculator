@@ -98,9 +98,3 @@ if len(game_names_list) > 1:
         print_games(game_names_list, game_prices_list)
     else:
         print("Cerramos el programa entonces")
-
-# For loop pa la joda
-
-for i in range(1, 10):
-    print(i)
-    print("Marico increible")
