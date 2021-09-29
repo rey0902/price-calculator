@@ -99,4 +99,7 @@ if len(game_names_list) > 1:
     else:
         print("Cerramos el programa entonces")
 
-# Cambio de prueba
+# For loop pa la joda
+
+for i in range(1, 10):
+    print(i)
